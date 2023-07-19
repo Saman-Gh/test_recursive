@@ -28,8 +28,8 @@ function findMax(arr) {
     console.log("Maximum value found:", max);
     return max;
   }
-  
   const arr = [45, 23, 58, 85, 62];
   const max = findMax(arr);
   console.log("Overall maximum value:", max);
+  console.log("done!")
   
